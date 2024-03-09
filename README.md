@@ -1,2 +1,1 @@
-# PrepCourse-Henry-Naza
-Este es un repositorio nuevo del prepcourse de henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo dsde github a mi escritorio local
